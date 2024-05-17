@@ -38,9 +38,10 @@ Because of the model's poor performance, this model should not be used to make i
 ## Note
 *Throughout this project, you'll see references to the problem-solving framework, PACE. The python notebook components are labeled with the respective PACE stages: Plan, Analyze, Construct, and Execute.*
 
-## Link to data dictionary, project proposal, and executive summaries
+## Links 
 * [Data Dictionary](https://docs.google.com/document/d/1C0CUArMaY5is3cvUfBC9WVou2BPSOze-xY1zwzP0tG0/edit?usp=sharing)
 * [Project Proposal](https://docs.google.com/document/d/1M8E2HE4Cc0hYvtsiZMtJ_ICMAlQyyw6Nvt1jSjIEENo/edit?usp=sharing)
+* [Exploratory Data Analysis Tableau Story](https://public.tableau.com/app/profile/jericka.marco/viz/WazeAppUsersDataExploratoryDataAnalysis/WazeAppUsersEDA)
 
 Executive summaries:
 * [Preliminary Data Summary](https://docs.google.com/presentation/d/1109xtLRtJyVJ358GXKAXt9SHt9MB5N-pm4IR2zx68LU/edit?usp=sharing)
