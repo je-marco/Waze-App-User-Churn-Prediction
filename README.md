@@ -3,7 +3,7 @@
 ## Overview
 The goal of this project is to use the Waze app user data to build a binomial logistic regression model, random forest model and extreme gradient boosting (XGBoost) model to predict monthly user churn. For the purposes of this project, churn quantifies the number of users who have uninstalled or stopped using the app.
 
-The XGBoost model fits the data better than the random forest and binomial regression models. However, the modeling effort reveals that the current data is inadequate to predict user churn consistently and that there is a great need for additional data or features that strongly correlate with user churn. 
+The XGBoost model fits the data better than the random forest and binomial regression models. However, the modeling effort reveals that the current data is inadequate to consistently predict user churn and that there is a great need for additional data or features that strongly correlate with user churn. 
 
 ## Business Understanding   
 An effective churn prediction model will help improve app user retention and answer questions such as: 
