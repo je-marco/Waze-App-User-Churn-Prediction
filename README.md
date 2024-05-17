@@ -29,7 +29,7 @@ Extreme gradient boosting is the champion model and was used to determine which 
 
 The model has a moderate precision score (42% of its positive predictions are correct) but with poor recall, with only 19% churned users identified during testing. This means that the model makes a lot of false negative predictions and fails to capture users who will churn.
 
-## Conclusion and recommendation
+## Conclusion and Recommendation
 Because of the model's poor performance, this model should not be used to make important business decisions. It is recommended only to use the key insights from this project to guide further exploration such as collecting data/features that would accurately predict user churn such as:
  *  Drive-level information for each user: drive times, geographic locations
  *  More granular data to know how users interact with the app: How often users report or confirm road hazard alerts?
